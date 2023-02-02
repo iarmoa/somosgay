@@ -1,0 +1,6 @@
+[
+    { "id": 1, "title": "Inicio", "link": "" },
+    { "id": 2, "title": "Quienes somos", "link": "about" },
+    { "id": 3, "title": "Ñande Rekorã", "link": "nanderekora" },
+    { "id": 5, "title": "Noticias", "link": "news" }
+  ]

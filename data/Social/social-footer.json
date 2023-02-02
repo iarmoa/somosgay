@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "icon": "icofont-facebook",
+      "portfolio": 1,
+      "footer": 1,
+      "link": "https://www.facebook.com/elcentrosomosgay"
+    },
+    {
+      "id": 2,
+      "icon": "icofont-twitter",
+      "portfolio": 0,
+      "footer": 1,
+      "link": "https://twitter.com/somosgay"
+    },
+    {
+      "id": 3,
+      "icon": "icofont-youtube",
+      "portfolio": 1,
+      "footer": 1,
+      "link": "https://www.youtube.com/user/SOMOSGAYorg"
+    },
+    {
+      "id": 4,
+      "icon": "icofont-instagram",
+      "portfolio": 0,
+      "footer": 1,
+      "link": "https://www.instagram.com/somosgayorg/"
+    },
+    {
+      "id": 5,
+      "icon": "icofont-rss",
+      "portfolio": 1,
+      "footer": 1,
+      "link": "http://somosgay.org/noticias/rss"
+    }
+  ]
+  

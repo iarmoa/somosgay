@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "title": "Informe Auditoría 2019",
+      "language": "Español",
+      "category": "Periodo 2019",
+      "type": ".pdf",
+      "url": "/documents/SOMOSGAY Informe Auditoría 2019 español.pdf"
+    },
+    {
+      "id": 2,
+      "title": "Informe 2019 EQUIS X",
+      "language": "Español",
+      "category": "Periodo 2019",
+      "type": ".pdf",
+      "url": "/documents/SOMOSGAY Informe 2019 (EQUIS X).pdf"
+    },
+    {
+      "id": 4,
+      "title": "Informe Auditoría 2020",
+      "language": "Español",
+      "category": "Periodo 2020",
+      "type": ".pdf",
+      "url": "/documents/SOMOSGAY Informe Auditoría 2020 español.pdf"
+    },
+    {
+      "id": 5,
+      "title": "Informe Anual 2020",
+      "category": "Periodo 2020",
+      "language": "Español",
+      "type": ".pdf",
+      "url": "/documents/SOMOSGAY Informe Anual 2020.pdf"
+    }
+  ]
+    

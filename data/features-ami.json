@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "icon":"icofont-heart",
+        "title":"Salud",
+        "text": "Agenda testeo y consultas médicas"
+    },
+    {
+        "id": 2,
+        "icon":"icofont-briefcase",
+        "title":"Bolsa de trabajo",
+        "text": "Busca y encuentra en la bolsa de trabajos"
+    },
+    {
+        "id": 3,
+        "icon":"icofont-court-hammer",
+        "title":"Denuncias y atención jurídica",
+        "text": "Si fuiste o sos vícitma Ami puede ayudarte"
+    }
+]

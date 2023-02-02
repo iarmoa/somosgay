@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "title": "Watá",
+      "icon": "book",
+      "text": "Magazine de un Paraguay diverso. ",
+      "link": "/nangareko"
+    },
+    {
+      "id": 2,
+      "title": "Clinica Kunu'u",
+      "icon": "stethoscope",
+      "text": "Nuestro centro de asistencia médica para los hombres gays, bisexuales y HSH. ",
+      "link": "/nangareko"
+    },
+    {
+      "id": 3,
+      "title": "Ami",
+      "icon": "smart-phone",
+      "text": "Disponible en Play Store. Testeo médico, entretenimiento y promociones. ",
+      "link": "https://www.tuami.org/"
+    }
+]

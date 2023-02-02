@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "icon": "facebook",
+        "link": "https://www.facebook.com/elcentrosomosgay/"
+    },
+    {
+        "id": 2,
+        "icon": "twitter",
+        "link": "https://twitter.com/somosgay"
+    },
+    {
+        "id": 3,
+        "icon": "instagram",
+        "link": "https://www.instagram.com/somosgayorg/"
+    }
+]  
